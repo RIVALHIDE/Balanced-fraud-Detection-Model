@@ -32,6 +32,8 @@ The model was trained on a synthetic dataset for financial fraud detection. The 
 
 * isFlaggedFraud: A flag set by the system for certain transactions.
 
+link for Dataset : https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+
 Model Analysis
 
 The analysis_model.ipynb Jupyter notebook provides a detailed exploration of the data and the development of the machine learning pipeline. Key findings from the analysis include:
